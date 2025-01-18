@@ -1,0 +1,5 @@
+its a small app which takes input from user as a number and prints
+    the number, if the number is divisible by 3 it prints Fizz if the number
+    is divisible by 5 it prints Buzz and if it is both divisible by 3 and
+    5 it prints FizzBuzz instead of the number and it shows every number
+    from 1 to the specified user input one by one with 1 sec delay
